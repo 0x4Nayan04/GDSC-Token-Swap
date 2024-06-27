@@ -1,8 +1,12 @@
 ## Token-Swap
+⚠️ **Note:** Due to some technical issues (possibly due to a 1inch API issue), this code is currently not working. Additionally, I don't have real MATIC to perform testing. I am working on fixing these issues. 🚧
 
 ## Description
 
 Token-Swap is a Next.js project that enables users to swap Matic tokens for either USDC or WETH tokens. It integrates with the 1inch API to fetch real-time conversion rates, allowing users to see the swap conversion price before executing the transaction. This project is built with a focus on simplicity and efficiency, providing a seamless user experience for cryptocurrency enthusiasts looking to exchange their assets.
+
+
+
 
 ## Features
 
