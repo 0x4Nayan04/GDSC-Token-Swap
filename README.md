@@ -11,6 +11,11 @@ Token-Swap is a Next.js project that enables users to swap Matic tokens for eith
 - **User Authentication**: Securely sign in and manage your transactions with NextAuth integration.
 - **Responsive Design**: A clean and responsive UI that looks great on all devices.
 
+## Preview of the Page
+
+![Screenshot_88](https://github.com/0x4Nayan04/GDSC-Token-Swap/assets/137928762/a62014b3-ff0d-4e59-b640-facb5a343971)
+
+
 ## Technologies Used
 
 - **Next.js**: A powerful React framework that enables server-side rendering and static site generation.
